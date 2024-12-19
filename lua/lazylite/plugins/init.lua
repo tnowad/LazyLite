@@ -1,0 +1,1 @@
+require("lazylite.config").init()
